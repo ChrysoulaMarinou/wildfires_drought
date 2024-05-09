@@ -3,7 +3,7 @@ We as using the methodology of a [previous story](https://lab.imedd.org/en/parak
 
 This repository includes:
 
-the csv files for each region analyzed in the folder "datasets_spei"
-the Jupyter Notebook with the main cleanup of the data and a quick analysis the SPEI values (greece_droughts2024)
-the csv file called "listings_full" used for the visualization
+- the csv files for each region analyzed in the folder "datasets_spei"
+- the Jupyter Notebook with the main cleanup of the data and a quick analysis the SPEI values (greece_droughts2024)
+- the csv file called "listings_full" used for the visualization
 
